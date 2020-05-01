@@ -5,7 +5,7 @@ const Footer = () => (
     <div className="content has-text-centered">
       <p>
         <strong>This website made by</strong> by{" "}
-        <a href="https://me.com">Your Truly</a>
+        <a href="https://me.com">Taiga</a>
       </p>
       <p>
         © {new Date().getFullYear()}, Built with

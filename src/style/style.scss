@@ -10,6 +10,13 @@
   }
 }
 
+@media screen and (max-width: 800px) {
+.columns.is-mobile > .column.is-full {
+
+  width: 95%;
+}
+}
+
 .blog-list {
   text-align: center;
   margin: auto;
